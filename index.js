@@ -30,8 +30,8 @@ const firebaseConfig = {
   projectId: "villamaria-e5f51",
   storageBucket: "villamaria-e5f51.appspot.com",
   messagingSenderId: "1009404580063",
-  appId: "1:1009404580063:web:bad02e0721c9a7c9b9196a",
-  measurementId: "G-LT3CXJWZ45"
+  appId: "1:1009404580063:web:ea92841a4de3f664b9196a",
+  measurementId: "G-LS81SL3QVC"
 };
 
 // Initialize Firebase
